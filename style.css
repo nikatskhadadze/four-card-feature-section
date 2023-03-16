@@ -15,7 +15,9 @@ body{
     font-style: normal;
 }
 header{
-    gap:13px;
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
     margin: 85px 0px 76px 0px;
 }
 header h1{
